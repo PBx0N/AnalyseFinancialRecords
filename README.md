@@ -14,5 +14,5 @@ It will then calculate each of the following:
 
 * The greatest decrease in profits (date and amount) over the entire period
 
-* The analysis will print text to the terminal and export a text file with the results.
+The analysis will print text to the terminal and export a text file with the results.
 
