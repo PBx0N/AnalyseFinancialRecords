@@ -1,6 +1,8 @@
 # AnalyseFinancialRecords
 
-Python script that analyzes the records to calculate each of the following:
+This Python script will analyse the csv data sources by reading the file from Resources Folder.
+
+It will then calculate each of the following:
 
 * The total number of months included in the dataset
 
